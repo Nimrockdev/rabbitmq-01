@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.6"
+  },
+  "description": "app node and rabbitmq",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimrockdev/rabbitmq-01.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Nimrockdev/rabbitmq-01/issues"
+  },
+  "homepage": "https://github.com/Nimrockdev/rabbitmq-01#readme"
+}
